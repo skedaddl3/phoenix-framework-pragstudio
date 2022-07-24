@@ -1,4 +1,4 @@
-## PragTechnologies - Coding Bootcamp (Elixir)
+## PragTechnologies - Coding Bootcamp (Phoenix Framework)
 
 #### Each Code Progress can be viewed on my [Commit History]()
 
